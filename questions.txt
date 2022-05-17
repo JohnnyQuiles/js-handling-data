@@ -1,0 +1,16 @@
+1.Explain what the ".map" properties of arrays does.
+
+creates a new arr populated with the results of data provided on every element individually. 
+
+2.Explain what the ".reduce" properties of arrays does.
+
+a reducer goes through data provided and reducer every element to a single value.
+
+3.How is ".map" different from reduce?
+
+quest 1 and quest 2 answer.
+
+4.What are "switch" statements?
+
+ are used to perform different actions based on different conditions.
+Use switch to select one of many blocks of code to be executed. This is the perfect solution for long, nested if/else statements.
